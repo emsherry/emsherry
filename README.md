@@ -1,7 +1,7 @@
 
 ### 👋 Hey, I'm Shehryar Ahmad!
 
-🌟 I'm a sophomore CS student at Ghulam Ishaq Khan Institute with a passion for AI and blockchain. My GitHub profile is a showcase of my skills in C++, Python, HTML, CSS, and JS. I enjoy working on diverse projects and contributing to the open-source community.
+🌟 I'm a Senior Year CS student at Ghulam Ishaq Khan Institute with a passion for AI and blockchain. My GitHub profile is a showcase of my skills in C++, Python, HTML, CSS, and JS. I enjoy working on diverse projects and contributing to the open-source community.
 
 💻 My profile features a diverse range of projects that demonstrate my ability to solve real-world problems with software development. From open-source libraries to decentralized apps, I enjoy exploring the latest tech and contributing to the community.
 
